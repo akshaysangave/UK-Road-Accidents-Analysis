@@ -24,6 +24,33 @@ These objectives comprehensively cover the analysis of different factors related
 6.	Current Year Casualties by Area/ Location & by Day/Night
 
 7.	Total Casualties and Total Accidents by Location
+## Data Collection
+
+### Source
+
+The data for this project was sourced from publicly available UK road accident records, provided by the UK Government. This dataset encompasses detailed information about road accidents, including specifics about the location, timing, conditions, and severity of each accident.
+
+### Data Description
+
+The dataset consists of various features capturing different aspects of road accidents. Key columns include:
+- **Accident_Index**: Unique identifier for each accident
+- **Accident Date and Time**: Date and time of the accident occurrence
+- **Day_of_Week**: Day of the week when the accident happened
+- **Junction_Control and Junction_Detail**: Information about the junction where the accident occurred
+- **Accident_Severity**: Classification of the accident severity
+- **Latitude and Longitude**: Geographic coordinates of the accident location
+- **Light_Conditions**: Lighting conditions at the time of the accident
+- **Local_Authority_(District)**: District where the accident occurred
+- **Carriageway_Hazards**: Hazards present on the carriageway
+- **Number_of_Casualties and Number_of_Vehicles**: Count of casualties and vehicles involved
+- **Police_Force**: Police force responsible for the accident report
+- **Road_Surface_Conditions and Road_Type**: Conditions and type of road surface
+- **Speed_limit**: Speed limit in the accident area
+- **Urban_or_Rural_Area**: Classification of the area as urban or rural
+- **Weather_Conditions**: Weather conditions during the accident
+- **Vehicle_Type**: Type of vehicles involved in the accident
+
+This comprehensive dataset enables a thorough analysis of the factors contributing to road accidents across the UK.![Uploading image.png…]()
 
 
 # Power BI Dashboard
