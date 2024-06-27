@@ -8,7 +8,6 @@ The purpose of the UK Road Accidents Analysis Project is to analyse large amount
 5. **Junction Analysis:** Explore how junction details and control types influence the frequency and severity of accidents.
 6. **Road Surface and Carriageway Hazards:** Examine the effects of road surface conditions and carriageway hazards on accident occurrences.
 7. **Policy Recommendations:** Provide actionable insights and recommendations for policymakers to improve road safety and reduce accident rates
----
 
 These objectives comprehensively cover the analysis of different factors related to road accidents, providing a solid foundation for the project.
 # Power BI Dashboard
