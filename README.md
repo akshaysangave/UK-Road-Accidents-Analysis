@@ -50,7 +50,7 @@ The dataset consists of 3,07,973 records from 1st January 2021 to 31st December 
 - **Weather_Conditions**: Weather conditions during the accident
 - **Vehicle_Type**: Type of vehicles involved in the accident
 
-This comprehensive dataset enables a thorough analysis of the factors contributing to road accidents across the UK.![Uploading image.png…]()
+This comprehensive dataset enables a thorough analysis of the factors contributing to road accidents across the UK.
 
 
 # Power BI Dashboard
