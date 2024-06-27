@@ -10,6 +10,15 @@ The purpose of the UK Road Accidents Analysis Project is to analyse large amount
 7. **Policy Recommendations:** Provide actionable insights and recommendations for policymakers to improve road safety and reduce accident rates
 
 These objectives comprehensively cover the analysis of different factors related to road accidents, providing a solid foundation for the project.
+# Requirements
+	Total Casualties and Total Accident values for Current Year and YoY growth
+	Total Casualties by Accident Severity for Current Year and YoY growth 15610
+	Total Casualties with respect to vehicle type for Current Year
+	Monthly trend showing comparison of casualties for Current Year and Previous Year
+	Casualties by Road Type for Current year
+	Current Year Casualties by Area/ Location & by Day/Night
+	Total Casualties and Total Accidents by Location
+
 # Power BI Dashboard
 ![PowerBI DB - Accident Project](https://github.com/akshaysangave/UK-Road-Accidents-Analysis/assets/156088551/a20e3ddd-1be9-4989-bd56-e4c93d47a37f)
 # Excel Dashboard
