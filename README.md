@@ -24,15 +24,15 @@ These objectives comprehensively cover the analysis of different factors related
 6.	Current Year Casualties by Area/ Location & by Day/Night
 
 7.	Total Casualties and Total Accidents by Location
-## Data Collection
+# Data Collection
 
-### Source
+## Source
 
 The data for this project was sourced from publicly available UK road accident records, provided by the UK Government. This dataset encompasses detailed information about road accidents, including specifics about the location, timing, conditions, and severity of each accident.
 
-### Data Description
+## Data Description
 
-The dataset consists of various features capturing different aspects of road accidents. Key columns include:
+The dataset consists of 3,07,973 records from 1st January 2021 to 31st December 2022, includes various features capturing different aspects of road accidents. Key columns include:
 - **Accident_Index**: Unique identifier for each accident
 - **Accident Date and Time**: Date and time of the accident occurrence
 - **Day_of_Week**: Day of the week when the accident happened
